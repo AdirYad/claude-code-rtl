@@ -2,7 +2,7 @@
   "name": "claude-rtl",
   "displayName": "Claude Code RTL",
   "description": "Zero-config RTL for Claude Code by Adir Yadaev. Hebrew, Arabic & Persian auto-detected per message. Install and it just works.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "AdirYad",
   "license": "MIT",
   "repository": {
