@@ -1,0 +1,59 @@
+{
+  "name": "claude-rtl",
+  "displayName": "Claude Code RTL",
+  "description": "Zero-config RTL for Claude Code by Adir Yadaev. Hebrew, Arabic & Persian auto-detected per message. Install and it just works.",
+  "version": "1.0.0",
+  "publisher": "AdirYad",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdiYd/claude-code-rtl"
+  },
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "keywords": [
+    "rtl",
+    "right-to-left",
+    "hebrew",
+    "arabic",
+    "persian",
+    "claude",
+    "claude-code",
+    "bidirectional",
+    "bidi"
+  ],
+  "icon": "assets/icon.png",
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./dist/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "claude-rtl.enable",
+        "title": "Claude RTL: Enable"
+      },
+      {
+        "command": "claude-rtl.disable",
+        "title": "Claude RTL: Disable"
+      }
+    ]
+  },
+  "scripts": {
+    "build": "node esbuild.mjs",
+    "watch": "node esbuild.mjs --watch",
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/vscode": "^1.94.0",
+    "@vscode/vsce": "^3.2.0",
+    "esbuild": "^0.24.0",
+    "typescript": "^5.6.0"
+  }
+}
