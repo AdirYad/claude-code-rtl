@@ -4,8 +4,6 @@
 
 Zero-config RTL for Claude Code. Install and it just works.
 
-> **[Install with one click](https://marketplace.visualstudio.com/items?itemName=AdirYad.claude-rtl-code)**
-
 **[English](#english)** | **[עברית](#עברית)** | **[العربية](#العربية)** | **[فارسی](#فارسی)**
 
 ---
