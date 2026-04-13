@@ -1,4 +1,4 @@
-# Claude Code RTL
+# Claude RTL Code
 
 Zero-config RTL for Claude Code. Install and it just works.
 
@@ -14,17 +14,17 @@ Hebrew, Arabic, and Persian text is auto-detected per message and rendered right
 
 ### Get Started
 
-Install from the Extensions panel (search "Claude Code RTL"), or via terminal:
+Install from the Extensions panel (search "Claude RTL Code"), or via terminal:
 
 ```bash
 # VS Code
-code --install-extension AdirYad.claude-rtl
+code --install-extension AdirYad.claude-rtl-code
 
 # Antigravity
-antigravity --install-extension AdirYad.claude-rtl
+antigravity --install-extension AdirYad.claude-rtl-code
 
 # Cursor
-cursor --install-extension AdirYad.claude-rtl
+cursor --install-extension AdirYad.claude-rtl-code
 ```
 
 Reload when prompted. Done.
@@ -56,7 +56,7 @@ Reload when prompted. Done.
 
 Join the Hebrew AI community **"רגע של בינה"**: [https://opticode.co.il/wa](https://opticode.co.il/wa)
 
-[Back to top](#claude-code-rtl)
+[Back to top](#claude-rtl-code)
 
 ---
 
@@ -68,17 +68,17 @@ Join the Hebrew AI community **"רגע של בינה"**: [https://opticode.co.il
 
 ### איך מתחילים
 
-התקינו מחלונית ההרחבות (חפשו "Claude Code RTL"), או דרך הטרמינל:
+התקינו מחלונית ההרחבות (חפשו "Claude RTL Code"), או דרך הטרמינל:
 
 ```bash
 # VS Code
-code --install-extension AdirYad.claude-rtl
+code --install-extension AdirYad.claude-rtl-code
 
 # Antigravity
-antigravity --install-extension AdirYad.claude-rtl
+antigravity --install-extension AdirYad.claude-rtl-code
 
 # Cursor
-cursor --install-extension AdirYad.claude-rtl
+cursor --install-extension AdirYad.claude-rtl-code
 ```
 
 לחצו "Reload" כשתתבקשו. זהו.
@@ -110,7 +110,7 @@ cursor --install-extension AdirYad.claude-rtl
 
 הצטרפו לקהילת ה-AI בעברית **"רגע של בינה"**: [https://opticode.co.il/wa](https://opticode.co.il/wa)
 
-[חזרה למעלה](#claude-code-rtl)
+[חזרה למעלה](#claude-rtl-code)
 
 ---
 
@@ -122,17 +122,17 @@ cursor --install-extension AdirYad.claude-rtl
 
 ### كيف تبدأ
 
-ثبت الإضافة من لوحة الإضافات (ابحث عن "Claude Code RTL")، أو عبر الطرفية:
+ثبت الإضافة من لوحة الإضافات (ابحث عن "Claude RTL Code")، أو عبر الطرفية:
 
 ```bash
 # VS Code
-code --install-extension AdirYad.claude-rtl
+code --install-extension AdirYad.claude-rtl-code
 
 # Antigravity
-antigravity --install-extension AdirYad.claude-rtl
+antigravity --install-extension AdirYad.claude-rtl-code
 
 # Cursor
-cursor --install-extension AdirYad.claude-rtl
+cursor --install-extension AdirYad.claude-rtl-code
 ```
 
 اضغط "Reload" عند الطلب. انتهى.
@@ -155,7 +155,7 @@ cursor --install-extension AdirYad.claude-rtl
 
 **Adir Yadaev** - [GitHub](https://github.com/AdirYad) | [Instagram](https://www.instagram.com/adir.yad/)
 
-[العودة للأعلى](#claude-code-rtl)
+[العودة للأعلى](#claude-rtl-code)
 
 ---
 
@@ -167,17 +167,17 @@ cursor --install-extension AdirYad.claude-rtl
 
 ### شروع کار
 
-از پنل افزونه ها نصب کنید ("Claude Code RTL" را جستجو کنید)، یا از طریق ترمینال:
+از پنل افزونه ها نصب کنید ("Claude RTL Code" را جستجو کنید)، یا از طریق ترمینال:
 
 ```bash
 # VS Code
-code --install-extension AdirYad.claude-rtl
+code --install-extension AdirYad.claude-rtl-code
 
 # Antigravity
-antigravity --install-extension AdirYad.claude-rtl
+antigravity --install-extension AdirYad.claude-rtl-code
 
 # Cursor
-cursor --install-extension AdirYad.claude-rtl
+cursor --install-extension AdirYad.claude-rtl-code
 ```
 
 وقتی خواسته شد "Reload" را بزنید. تمام.
@@ -200,7 +200,7 @@ cursor --install-extension AdirYad.claude-rtl
 
 **Adir Yadaev** - [GitHub](https://github.com/AdirYad) | [Instagram](https://www.instagram.com/adir.yad/)
 
-[بازگشت به بالا](#claude-code-rtl)
+[بازگشت به بالا](#claude-rtl-code)
 
 ---
 
