@@ -1,6 +1,10 @@
 # Claude RTL Code
 
+[![Install in VS Code](https://img.shields.io/badge/Install-VS%20Code-blue?logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=AdirYad.claude-rtl-code) [![GitHub](https://img.shields.io/github/stars/AdirYad/claude-rtl-code?style=social)](https://github.com/AdirYad/claude-rtl-code)
+
 Zero-config RTL for Claude Code. Install and it just works.
+
+> **[Install with one click](https://marketplace.visualstudio.com/items?itemName=AdirYad.claude-rtl-code)**
 
 **[English](#english)** | **[עברית](#עברית)** | **[العربية](#العربية)** | **[فارسی](#فارسی)**
 
