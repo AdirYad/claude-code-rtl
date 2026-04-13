@@ -71,14 +71,6 @@ ${CSS_MARKER_START}
   text-align: left !important;
 }
 
-/* Input: auto-detect direction based on first character typed */
-[class*="messageInput_"],
-[class*="inputWrapper_"],
-[class*="inputContainer_"] textarea,
-[class*="inputContainer_"] [contenteditable] {
-  unicode-bidi: plaintext;
-  text-align: start;
-}
 
 ${CSS_MARKER_END}`;
 }
