@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdiYd/claude-code-rtl"
+    "url": "https://github.com/AdirYad/claude-code-rtl"
   },
   "engines": {
     "vscode": "^1.94.0"
