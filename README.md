@@ -7,6 +7,7 @@ Zero-config RTL for Claude Code. Install and it just works.
 ---
 
 <a id="english"></a>
+
 ## English
 
 Hebrew, Arabic, and Persian text is auto-detected per message and rendered right-to-left. English stays LTR. Code blocks, tool calls, and thinking blocks always stay LTR.
@@ -44,10 +45,10 @@ Reload when prompted. Done.
 
 ### Commands
 
-| Command | Description |
-| --- | --- |
-| `Claude RTL: Enable` | Enable RTL (runs automatically on install) |
-| `Claude RTL: Disable` | Disable RTL and restore original files |
+| Command               | Description                                |
+| --------------------- | ------------------------------------------ |
+| `Claude RTL: Enable`  | Enable RTL (runs automatically on install) |
+| `Claude RTL: Disable` | Disable RTL and restore original files     |
 
 ### Author
 
@@ -60,6 +61,7 @@ Join the Hebrew AI community **"רגע של בינה"**: [https://opticode.co.il
 ---
 
 <a id="עברית"></a>
+
 ## עברית
 
 תמיכה אוטומטית ב-RTL עבור Claude Code. מזהה עברית בכל הודעה ומציג אותה מימין לשמאל. אנגלית נשארת LTR. בלוקים של קוד, כלים וחשיבה תמיד נשארים LTR.
@@ -97,14 +99,14 @@ cursor --install-extension AdirYad.claude-rtl
 
 ### פקודות
 
-| פקודה | תיאור |
-| --- | --- |
-| `Claude RTL: Enable` | הפעלת RTL (רץ אוטומטית בהתקנה) |
+| פקודה                 | תיאור                          |
+| --------------------- | ------------------------------ |
+| `Claude RTL: Enable`  | הפעלת RTL (רץ אוטומטית בהתקנה) |
 | `Claude RTL: Disable` | כיבוי RTL ושחזור קבצים מקוריים |
 
 ### יוצר
 
-**אדיר ידעב** - [GitHub](https://github.com/AdirYad) | [Instagram](https://www.instagram.com/adir.yad/) | [אתר](https://opticode.co.il/)
+**אדיר ידייב** - [GitHub](https://github.com/AdirYad) | [Instagram](https://www.instagram.com/adir.yad/) | [אתר](https://opticode.co.il/)
 
 הצטרפו לקהילת ה-AI בעברית **"רגע של בינה"**: [https://opticode.co.il/wa](https://opticode.co.il/wa)
 
@@ -113,6 +115,7 @@ cursor --install-extension AdirYad.claude-rtl
 ---
 
 <a id="العربية"></a>
+
 ## العربية
 
 دعم RTL تلقائي لـ Claude Code. يكتشف النص العربي في كل رسالة ويعرضه من اليمين إلى اليسار. النص الإنجليزي يبقى LTR. أكواد البرمجة والأدوات تبقى دائما LTR.
@@ -148,11 +151,16 @@ cursor --install-extension AdirYad.claude-rtl
 - Cursor
 - Antigravity
 
+### المؤلف
+
+**Adir Yadaev** - [GitHub](https://github.com/AdirYad) | [Instagram](https://www.instagram.com/adir.yad/)
+
 [العودة للأعلى](#claude-code-rtl)
 
 ---
 
 <a id="فارسی"></a>
+
 ## فارسی
 
 پشتیبانی خودکار RTL برای Claude Code. متن فارسی را در هر پیام شناسایی کرده و از راست به چپ نمایش می دهد. متن انگلیسی LTR باقی می ماند. بلوک های کد و ابزارها همیشه LTR هستند.
@@ -187,6 +195,10 @@ cursor --install-extension AdirYad.claude-rtl
 - VS Code
 - Cursor
 - Antigravity
+
+### سازنده
+
+**Adir Yadaev** - [GitHub](https://github.com/AdirYad) | [Instagram](https://www.instagram.com/adir.yad/)
 
 [بازگشت به بالا](#claude-code-rtl)
 
