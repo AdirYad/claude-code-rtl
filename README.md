@@ -13,9 +13,20 @@ Hebrew, Arabic, and Persian text is auto-detected per message and rendered right
 
 ### Get Started
 
-1. Install from the Extensions panel (search "Claude Code RTL")
-2. Reload when prompted
-3. Done. Start typing in Hebrew, Arabic, or Persian
+Install from the Extensions panel (search "Claude Code RTL"), or via terminal:
+
+```bash
+# VS Code
+code --install-extension AdirYad.claude-rtl
+
+# Antigravity
+antigravity --install-extension AdirYad.claude-rtl
+
+# Cursor
+cursor --install-extension AdirYad.claude-rtl
+```
+
+Reload when prompted. Done.
 
 ### Features
 
@@ -38,6 +49,12 @@ Hebrew, Arabic, and Persian text is auto-detected per message and rendered right
 | `Claude RTL: Enable` | Enable RTL (runs automatically on install) |
 | `Claude RTL: Disable` | Disable RTL and restore original files |
 
+### Author
+
+**Adir Yadaev** - [GitHub](https://github.com/AdirYad) | [Instagram](https://www.instagram.com/adir.yad/) | [Website](https://opticode.co.il/)
+
+Join the Hebrew AI community **"רגע של בינה"**: [https://opticode.co.il/wa](https://opticode.co.il/wa)
+
 [Back to top](#claude-code-rtl)
 
 ---
@@ -49,9 +66,20 @@ Hebrew, Arabic, and Persian text is auto-detected per message and rendered right
 
 ### איך מתחילים
 
-1. התקינו מחלונית ההרחבות (חפשו "Claude Code RTL")
-2. לחצו "Reload" כשתתבקשו
-3. זהו. התחילו לכתוב בעברית
+התקינו מחלונית ההרחבות (חפשו "Claude Code RTL"), או דרך הטרמינל:
+
+```bash
+# VS Code
+code --install-extension AdirYad.claude-rtl
+
+# Antigravity
+antigravity --install-extension AdirYad.claude-rtl
+
+# Cursor
+cursor --install-extension AdirYad.claude-rtl
+```
+
+לחצו "Reload" כשתתבקשו. זהו.
 
 ### יכולות
 
@@ -74,6 +102,12 @@ Hebrew, Arabic, and Persian text is auto-detected per message and rendered right
 | `Claude RTL: Enable` | הפעלת RTL (רץ אוטומטית בהתקנה) |
 | `Claude RTL: Disable` | כיבוי RTL ושחזור קבצים מקוריים |
 
+### יוצר
+
+**אדיר ידעב** - [GitHub](https://github.com/AdirYad) | [Instagram](https://www.instagram.com/adir.yad/) | [אתר](https://opticode.co.il/)
+
+הצטרפו לקהילת ה-AI בעברית **"רגע של בינה"**: [https://opticode.co.il/wa](https://opticode.co.il/wa)
+
 [חזרה למעלה](#claude-code-rtl)
 
 ---
@@ -85,9 +119,20 @@ Hebrew, Arabic, and Persian text is auto-detected per message and rendered right
 
 ### كيف تبدأ
 
-1. ثبت الإضافة من لوحة الإضافات (ابحث عن "Claude Code RTL")
-2. اضغط "Reload" عند الطلب
-3. انتهى. ابدأ الكتابة بالعربية
+ثبت الإضافة من لوحة الإضافات (ابحث عن "Claude Code RTL")، أو عبر الطرفية:
+
+```bash
+# VS Code
+code --install-extension AdirYad.claude-rtl
+
+# Antigravity
+antigravity --install-extension AdirYad.claude-rtl
+
+# Cursor
+cursor --install-extension AdirYad.claude-rtl
+```
+
+اضغط "Reload" عند الطلب. انتهى.
 
 ### المميزات
 
@@ -114,9 +159,20 @@ Hebrew, Arabic, and Persian text is auto-detected per message and rendered right
 
 ### شروع کار
 
-1. از پنل افزونه ها نصب کنید ("Claude Code RTL" را جستجو کنید)
-2. وقتی خواسته شد "Reload" را بزنید
-3. تمام. شروع به نوشتن فارسی کنید
+از پنل افزونه ها نصب کنید ("Claude Code RTL" را جستجو کنید)، یا از طریق ترمینال:
+
+```bash
+# VS Code
+code --install-extension AdirYad.claude-rtl
+
+# Antigravity
+antigravity --install-extension AdirYad.claude-rtl
+
+# Cursor
+cursor --install-extension AdirYad.claude-rtl
+```
+
+وقتی خواسته شد "Reload" را بزنید. تمام.
 
 ### ویژگی ها
 
