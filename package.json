@@ -41,6 +41,12 @@
         "command": "claude-rtl.disable",
         "title": "Claude RTL: Disable"
       }
+    ],
+    "markdown.previewStyles": [
+      "./media/markdown-rtl.css"
+    ],
+    "markdown.previewScripts": [
+      "./media/markdown-rtl.js"
     ]
   },
   "scripts": {

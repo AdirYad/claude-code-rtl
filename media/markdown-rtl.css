@@ -1,0 +1,33 @@
+/* Keep code blocks LTR even when inside an RTL-flowed block */
+pre,
+pre code,
+code,
+kbd,
+samp {
+  direction: ltr;
+  text-align: left;
+  unicode-bidi: isolate;
+}
+
+/* Inline code inside an RTL paragraph should not reflow neighbors */
+p code,
+li code,
+h1 code, h2 code, h3 code, h4 code, h5 code, h6 code,
+td code, th code {
+  unicode-bidi: isolate;
+}
+
+/* Nested lists — bullets on correct side when dir="auto" resolves to RTL */
+[dir="auto"] ul,
+[dir="auto"] ol {
+  padding-inline-start: 2em;
+}
+
+/* Blockquote border swaps side automatically via logical properties */
+[dir="auto"] blockquote,
+blockquote[dir="auto"] {
+  border-inline-start: 4px solid var(--vscode-textBlockQuote-border, #ccc);
+  border-left: none;
+  padding-inline-start: 1em;
+  padding-left: 0;
+}
