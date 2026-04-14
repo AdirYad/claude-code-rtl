@@ -15,7 +15,7 @@
     scope.querySelectorAll(BLOCK_SELECTOR).forEach(function (el) {
       if (el.hasAttribute("dir")) return;
       if (HEBREW.test(el.textContent || "")) {
-        el.setAttribute("dir", "auto");
+        el.setAttribute("dir", "rtl");
       }
     });
   }

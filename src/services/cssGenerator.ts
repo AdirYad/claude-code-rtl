@@ -8,12 +8,32 @@ ${CSS_MARKER_START}
 /* Auto RTL: applied per-bubble when Hebrew/Arabic detected */
 .rtl-auto[class*="timelineMessage_"],
 .rtl-auto[class*="userMessage_"],
-.rtl-auto[class*="userMessageContainer_"] {
+.rtl-auto[class*="userMessageContainer_"],
+.rtl-auto[class*="questionsContainer_"],
+.rtl-auto[class*="questionBlock_"] {
   direction: rtl;
   unicode-bidi: plaintext;
   text-align: right;
   max-width: 100%;
   overflow-x: hidden;
+}
+
+/* AskUser tool: keep inner question/option text RTL even though they sit
+   inside a toolUse wrapper (which is normally forced LTR below) */
+.rtl-auto [class*="questionText_"],
+.rtl-auto [class*="questionTextLarge_"],
+.rtl-auto [class*="questionHeader_"],
+.rtl-auto [class*="questionItem_"],
+.rtl-auto [class*="answerText_"],
+.rtl-auto [class*="optionText_"],
+.rtl-auto [class*="optionLabel_"],
+.rtl-auto [class*="optionDescription_"],
+.rtl-auto [class*="optionContent_"],
+.rtl-auto [class*="options_"],
+.rtl-auto [class*="optionsContainer_"] {
+  direction: rtl !important;
+  unicode-bidi: plaintext !important;
+  text-align: right !important;
 }
 
 .rtl-auto p,

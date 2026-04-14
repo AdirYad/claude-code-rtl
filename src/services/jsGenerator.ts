@@ -10,7 +10,9 @@ ${JS_MARKER_START}
   var RTL_RE = /${RTL_REGEX_SOURCE}/;
   var BUBBLE_SELECTORS = [
     '[class*="timelineMessage_"]',
-    '[class*="userMessageContainer_"]'
+    '[class*="userMessageContainer_"]',
+    '[class*="questionsContainer_"]',
+    '[class*="questionBlock_"]'
   ];
   var observed = new WeakSet();
 

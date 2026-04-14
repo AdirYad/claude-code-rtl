@@ -18,14 +18,14 @@ td code, th code {
 }
 
 /* Nested lists — bullets on correct side when dir="auto" resolves to RTL */
-[dir="auto"] ul,
-[dir="auto"] ol {
+[dir="rtl"] ul,
+[dir="rtl"] ol {
   padding-inline-start: 2em;
 }
 
 /* Blockquote border swaps side automatically via logical properties */
-[dir="auto"] blockquote,
-blockquote[dir="auto"] {
+[dir="rtl"] blockquote,
+blockquote[dir="rtl"] {
   border-inline-start: 4px solid var(--vscode-textBlockQuote-border, #ccc);
   border-left: none;
   padding-inline-start: 1em;
