@@ -24,9 +24,6 @@ code --install-extension AdirYad.claude-rtl-code
 
 # Antigravity
 antigravity --install-extension AdirYad.claude-rtl-code
-
-# Cursor
-cursor --install-extension AdirYad.claude-rtl-code
 ```
 
 Reload when prompted. Done.
@@ -42,7 +39,6 @@ Reload when prompted. Done.
 ### Supported IDEs
 
 - VS Code
-- Cursor
 - Antigravity
 
 ### Commands
@@ -78,9 +74,6 @@ code --install-extension AdirYad.claude-rtl-code
 
 # Antigravity
 antigravity --install-extension AdirYad.claude-rtl-code
-
-# Cursor
-cursor --install-extension AdirYad.claude-rtl-code
 ```
 
 לחצו "Reload" כשתתבקשו. זהו.
@@ -96,7 +89,6 @@ cursor --install-extension AdirYad.claude-rtl-code
 ### סביבות נתמכות
 
 - VS Code
-- Cursor
 - Antigravity
 
 ### פקודות
@@ -132,9 +124,6 @@ code --install-extension AdirYad.claude-rtl-code
 
 # Antigravity
 antigravity --install-extension AdirYad.claude-rtl-code
-
-# Cursor
-cursor --install-extension AdirYad.claude-rtl-code
 ```
 
 اضغط "Reload" عند الطلب. انتهى.
@@ -150,7 +139,6 @@ cursor --install-extension AdirYad.claude-rtl-code
 ### البيئات المدعومة
 
 - VS Code
-- Cursor
 - Antigravity
 
 ### المؤلف
@@ -177,9 +165,6 @@ code --install-extension AdirYad.claude-rtl-code
 
 # Antigravity
 antigravity --install-extension AdirYad.claude-rtl-code
-
-# Cursor
-cursor --install-extension AdirYad.claude-rtl-code
 ```
 
 وقتی خواسته شد "Reload" را بزنید. تمام.
@@ -195,7 +180,6 @@ cursor --install-extension AdirYad.claude-rtl-code
 ### محیط های پشتیبانی شده
 
 - VS Code
-- Cursor
 - Antigravity
 
 ### سازنده
