@@ -1,7 +1,5 @@
 # Claude RTL Code
 
-[![Install](https://img.shields.io/badge/Install-Marketplace-blue?logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=AdirYad.claude-rtl-code) [![GitHub](https://img.shields.io/github/stars/AdirYad/claude-rtl-code?style=social)](https://github.com/AdirYad/claude-rtl-code)
-
 Zero-config RTL for Claude Code. Install and it just works.
 
 **[English](#english)** | **[עברית](#עברית)** | **[العربية](#العربية)** | **[فارسی](#فارسی)**
