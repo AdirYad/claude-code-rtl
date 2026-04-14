@@ -1,6 +1,6 @@
 # Claude RTL Code
 
-[![Install in VS Code](https://img.shields.io/badge/Install-VS%20Code-blue?logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=AdirYad.claude-rtl-code) [![GitHub](https://img.shields.io/github/stars/AdirYad/claude-rtl-code?style=social)](https://github.com/AdirYad/claude-rtl-code)
+[![Install in VS Code](https://img.shields.io/badge/Install-VS%20Code-blue?logo=visualstudiocode)](vscode:extension/AdirYad.claude-rtl-code) [![Install in Antigravity](https://img.shields.io/badge/Install-Antigravity-orange)](antigravity:extension/AdirYad.claude-rtl-code) [![GitHub](https://img.shields.io/github/stars/AdirYad/claude-rtl-code?style=social)](https://github.com/AdirYad/claude-rtl-code)
 
 Zero-config RTL for Claude Code. Install and it just works.
 
