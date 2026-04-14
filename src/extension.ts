@@ -26,7 +26,30 @@ export async function activate(context: vscode.ExtensionContext) {
   updateStatusBar(isEnabled);
 }
 
-export function deactivate() {}
+export async function deactivate() {
+  // Clean up injection from the CURRENT IDE only (not other IDEs on disk)
+  // Runs on uninstall, disable, and window close
+  try {
+    const appName = (require("vscode") as typeof import("vscode")).env.appName.toLowerCase();
+    const currentIde = appName.includes("antigravity")
+      ? "antigravity"
+      : appName.includes("cursor")
+      ? "cursor"
+      : "vscode";
+
+    const installations = await findClaudeCodeInstallations();
+    for (const inst of installations) {
+      if (inst.ide !== currentIde) continue;
+      try {
+        await remove(inst);
+      } catch {
+        // ignore
+      }
+    }
+  } catch {
+    // ignore
+  }
+}
 
 // ── Commands ──
 
