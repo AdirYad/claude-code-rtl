@@ -8,11 +8,12 @@ ${CSS_MARKER_START}
 /* Auto RTL: applied per-bubble when Hebrew/Arabic detected */
 .rtl-auto[class*="timelineMessage_"],
 .rtl-auto[class*="userMessage_"],
-.rtl-auto[class*="userMessageContainer_"],
-.rtl-auto [class*="message_"] {
+.rtl-auto[class*="userMessageContainer_"] {
   direction: rtl;
   unicode-bidi: plaintext;
   text-align: right;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 .rtl-auto p,
